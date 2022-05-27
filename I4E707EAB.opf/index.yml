@@ -1,0 +1,9 @@
+id: ce2c77bf5a5b4a4f8b0ab8941cf232c0
+annotation_type: index
+revision: '00001'
+annotations:
+  307cd6d06a9d459a869b70a84d78bfdc:
+    base: f868E.txt
+    span:
+      start: 0
+      end: 371197
